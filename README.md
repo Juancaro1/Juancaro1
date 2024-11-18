@@ -41,6 +41,12 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </span>
 
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Juancaro1&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Juancaro1)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Juancaro1&theme=material-palenight)](https://github.com/Juancaro1)
+</div>
 
 
 
